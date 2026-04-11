@@ -9,8 +9,13 @@ Problems are organized by problem-solving patterns such as:
 - Sliding Window  
 - Binary Search  
 - Dynamic Programming  
-- Graphs  
-
+- hashing
+- recursion and backtracking 
+- miscellaneous
+- stack
+- queue
+- tree
+- graph
 This helps improve pattern recognition and problem-solving skills.
 
 ## Sources
