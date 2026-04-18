@@ -19,7 +19,7 @@ int main(){
             else if(x == '}' && char_stack[top] == '{') top--;
             else{ cout<<"INVALID"; return 0; }
         }
-    }
+    } 
     if(top == -1) {cout<<"VALID"; return 0;}
     else{ cout<<"INVALID"; }
     return 0;

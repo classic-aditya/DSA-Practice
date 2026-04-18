@@ -16,6 +16,7 @@ Problems are organized by problem-solving patterns such as:
 - queue
 - tree
 - graph
+
 This helps improve pattern recognition and problem-solving skills.
 
 ## Sources
